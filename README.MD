@@ -4,6 +4,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## 🎯 Kết Quả Huấn Luyện
+
+![Kết quả huấn luyện mô hình Llama 3.2](./ket_que_train.png)
+
 ## 🚀 Tổng Quan
 
 Dự án này cung cấp một triển khai chuyên nghiệp, mô-đun hóa và hiệu năng cao cho việc huấn luyện trước (pretraining) các mô hình ngôn ngữ theo phong cách **Llama 3.2 1B**. Được thiết kế theo các tiêu chuẩn kỹ thuật của "Big Tech", dự án bao gồm quy trình xử lý dữ liệu mạnh mẽ, kiến trúc mô hình hiệu quả và vòng lặp huấn luyện sẵn sàng cho môi trường production.
